@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 30,
+  "experience": 0.05,
+  "group": "fry",
+  "ingredient": {
+    "item": "betterpotatoes:raw_fry"
+  },
+  "result": {
+    "id": "betterpotatoes:fry"
+  }
+}

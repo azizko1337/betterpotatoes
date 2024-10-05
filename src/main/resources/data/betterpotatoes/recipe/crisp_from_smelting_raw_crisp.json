@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 40,
+  "experience": 0.05,
+  "group": "crisp",
+  "ingredient": {
+    "item": "betterpotatoes:raw_crisp"
+  },
+  "result": {
+    "id": "betterpotatoes:crisp"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "betterpotatoes:item/fries_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "betterpotatoes:item/fries_3d"
+    },
+    "ground": {
+      "parent": "betterpotatoes:item/fries_3d"
+    },
+    "fixed": {
+      "parent": "betterpotatoes:item/fries_2d"
+    }
+  }
+}
